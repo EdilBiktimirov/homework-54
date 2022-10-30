@@ -1,0 +1,12 @@
+.ResetBtn {
+    padding: 10px 30px;
+    margin-top: 15px;
+    background: aquamarine;
+    border: none;
+    border-radius: 5px;
+}
+
+.ResetBtn:hover {
+    background: #fff;
+    box-shadow: 1px 1px 3px aquamarine, -1px -1px 3px aquamarine;
+}
