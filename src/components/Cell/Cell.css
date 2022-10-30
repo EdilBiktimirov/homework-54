@@ -1,0 +1,15 @@
+.Cell {
+    border: 1px solid black;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    background: darkgrey;
+}
+
+.clicked {
+    background: #fff;
+}
+
+.bomb {
+    background: url("../../images/bomb.png") center no-repeat;
+}
