@@ -7,7 +7,6 @@ onBtnClick: React.MouseEventHandler;
 
 const ResetBtn: React.FC<Props>  = ({onBtnClick}) => {
 
-
   return (
     <div>
 <button className={"ResetBtn"} onClick={onBtnClick}>Reset</button>
